@@ -16,7 +16,7 @@ class test
     {
         System.out.println(test.size());
         System.out.println(test.get(0));
-        System.out.println((Integer.parseInt(test.get(0))+ 1);
+        System.out.println((Integer.parseInt(test.get(0)));
     }
 
 }
